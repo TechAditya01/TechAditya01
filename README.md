@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A pre-final year CSE-grad student</h3>
 
 - 🔭 I’m currently working on **clone app of netflix & amazon**
-
-- 🌱 I’m currently learning **Python & AIML**
-
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/full.html](http://127.0.0.1:5500/full.html)
-
-- 💬 Ask me about **Fronted Dev**
-
 - 📫 How to reach me **adityakumar.gdscrcet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
