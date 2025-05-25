@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A pre-final year CSE-grad student</h3>
 
-- 🔭 I’m currently working on **clone app of netflix & amazon**
 - 📫 How to reach me **adityakumar.gdscrcet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
